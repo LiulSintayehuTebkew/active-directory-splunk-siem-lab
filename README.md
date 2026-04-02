@@ -41,7 +41,7 @@ The goal was simple: set up the infrastructure, throw attacks at it, and see if 
 3. Set up Splunk on Ubuntu and configured Universal Forwarders on both Windows machines
 4. Built out Active Directory — promoted Server 2022 to a DC, created the Aksumite forest, added HR and IT organizational units with users in each
 5. Windows 10 joined the domain
-6. Ran a brute-force attack from Kali — Splunk caught it with EventID 4625 (failed logons)
+6. Ran a brute-force attack from Kali — Splunk caught it with EventCode 4625 (failed logons)
 7. Installed a RAT and ran Atomic Red Team techniques mapped to MITRE ATT&CK
 8. Analyzed all telemetry in Splunk — every attack generated the expected events
 
