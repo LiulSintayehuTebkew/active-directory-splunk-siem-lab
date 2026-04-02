@@ -17,7 +17,7 @@ This is the foundation everything else is built on. All four VMs sit on the same
 
 ## Diagram
 
-![Network Topology](network-topology.png)
+![Network Diagram](./01-network-configuration-diagram.png)
 
 ---
 
