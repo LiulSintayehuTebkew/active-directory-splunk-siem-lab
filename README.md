@@ -56,3 +56,8 @@ The goal was simple: set up the infrastructure, throw attacks at it, and see if 
 - Atomic Red Team
 - MITRE ATT&CK Framework
 - draw.io for diagram sketching
+
+##  Legal Disclaimer
+
+ All research documented in this repository was conducted exclusively in an isolated Vmware lab environment on systems I personally own and control. No real systems, networks, users, or organisations were involved at any point. This work exists solely for educational purposes — to understand how vulnerabilities work so they can be identified, reported, and remediated professionally.
+**Do not replicate any of this outside of your own controlled lab environment.**
