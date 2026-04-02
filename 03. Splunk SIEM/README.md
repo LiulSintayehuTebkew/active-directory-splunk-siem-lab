@@ -43,4 +43,4 @@ Splunk is the detection engine for this lab. It runs on Ubuntu Server and receiv
 
 ## Notes
 
-The account creation detection screenshot shows Splunk catching EventID 4720 when a new user was added in Active Directory — this is a real detection rule used in SOC environments to spot unauthorized account creation.
+The account creation detection screenshot shows Splunk catching EventID 4726 when a new user was added in Active Directory — this is a real detection rule used in SOC environments to spot unauthorized account creation.
