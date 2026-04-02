@@ -22,7 +22,7 @@ The goal was simple: set up the infrastructure, throw attacks at it, and see if 
 
 ## Network overview
 
-![Network Diagram](01-network-configuration-and-diagram/network-topology.png)
+https://github.com/LiulSintayehuTebkew/active-directory-splunk-siem-lab/blob/main/01.%20Network%20Configuration%20and%20Diagram/01-network-diagram.png
 
 - **Domain:** Aksumite
 - **Network:** 192.168.106.0/24
