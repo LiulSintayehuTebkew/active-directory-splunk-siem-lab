@@ -23,7 +23,7 @@ This is the foundation everything else is built on. All four VMs sit on the same
 
 ## Notes
 
-- All machines are on the 192.168.10.0/24 subnet
+- All machines are on the 192.168.106.0/24 subnet
 - The domain controller also acts as the DNS server for the domain
 - Kali is on the same subnet to simulate an internal threat — lateral movement scenario
 - The cloud icon in the diagram represents internet access through the NAT adapter
